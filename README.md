@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 30, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Scott Campbell)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Building an application that displays information about movies usong jQuery and AJAX methods to 
+parse JSON data returned from a 3rd party server, TheMovieDB (TMDB) API, to access their movie data)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://scottums.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learn how to build an application using an Application Programming Interface (API).)
+2. (Learn how to parse JSON data from an HTTP response message.)
+3. (Learn how to use Ajax methods and properties that allow the Client to send an HTTP Request and receive back an
+HTTP Response.)
